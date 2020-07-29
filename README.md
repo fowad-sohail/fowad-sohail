@@ -1,9 +1,5 @@
 ### Hey, I'm Fowad! 👋
 
-<!--
-**fowad-sohail/fowad-sohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an AI-aided web application for brain tumor segmentation
 - 🌱 I’m currently learning AWS services such as S3 and Elastic Beanstalk
@@ -12,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about cooking and gymnastics rings training
 - 📫 How to reach me: fowad.sohail@gmail.com
 - ⚡ Fun fact: I once sprained BOTH of my ankles during my final tennis season in high school. I still played the season and made some great memories along the way 🎾
--->
