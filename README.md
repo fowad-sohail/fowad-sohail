@@ -13,3 +13,5 @@ I am **Fowad Sohail** a **Full Stack Developer** experienced in many languages a
 - 💬 Ask me about cooking, fitness and DIY projects
 - 📫 How to reach me: fowad.sohail@gmail.com
 - ⚡ Fun fact: I can fluently read, write and speak **Urdu**!
+
+[![Fowad's github stats](https://github-readme-stats.vercel.app/api?username=fowad-sohail&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,stars)](https://github.com/fowad-sohail/github-readme-stats)
