@@ -10,6 +10,6 @@ I am **Fowad Sohail** a **Full Stack Developer** experienced in many languages a
 - 🌱 I’m currently learning **AWS services** such as **S3 and Elastic Beanstalk**
 - 👯 I’m looking to collaborate on data science and computer vision projects
 - 🤔 I’m looking for help with **deploying production machine learning models**
-- 💬 Ask me about cooking and gymnastics rings training
+- 💬 Ask me about cooking, fitness and DIY projects
 - 📫 How to reach me: fowad.sohail@gmail.com
 - ⚡ Fun fact: I can fluently read, write and speak **Urdu**!
