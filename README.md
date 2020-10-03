@@ -6,7 +6,7 @@ I am **Fowad Sohail** a **Full Stack Developer** experienced in many languages a
 
 ---
 
-- 🔭 I’m currently working on an **AI-aided web application** for brain tumor segmentation
+- 🔭 I’m currently working on an SEO optimization product
 - 🌱 I’m currently learning **AWS services** such as **S3 and Elastic Beanstalk**
 - 👯 I’m looking to collaborate on data science and computer vision projects
 - 🤔 I’m looking for help with **deploying production machine learning models**
