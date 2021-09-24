@@ -2,7 +2,7 @@
 
 ### Hey! <img src="https://raw.githubusercontent.com/fowad-sohail/fowad-sohail/master/wave.gif" width="30px">
 
-I am **Fowad Sohail** a **Full Stack Developer** experienced in many languages and frameworks all for different purposes, from frontend to backend to data science and machine learning. I'm skilled in **ReactJS, NodeJS, Python, TensorFlow, RESTful APIs and UI/UX Design** among many others. I'm a confident and eager young engineering professional currently working on my Master's in Artificial Intelligence. Check out some of what I'm up to below:
+I am **Fowad Sohail** a **Full Stack Developer** experienced in many languages and frameworks all for different purposes, from frontend to backend to data science and machine learning. I'm skilled in **ReactJS, NodeJS, Python, TensorFlow, RESTful APIs and UI/UX Design** among many others. I'm a confident and eager engineering professional currently working on my Master's in Artificial Intelligence. Check out some of what I'm up to below:
 
 ---
 
