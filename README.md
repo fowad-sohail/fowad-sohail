@@ -7,10 +7,10 @@ I am **Fowad Sohail** a **Full Stack Developer** experienced in many languages a
 ---
 
 - 🔭 I’m currently working on deep learning research and data privacy protection products
-- 🌱 I’m currently learning **AWS services** such as **S3, Elastic Beanstalk and Cognito**
+- 🌱 I’m currently learning **Golang** and **AWS services** such as **S3, Elastic Beanstalk and Cognito**
 - 🍳 I'm always cracking Dad Jokes!
 - 🗣 I have a long term goal of **giving a TED Talk**
-- 💬 Ask me about cooking, fitness and soccer ⚽
+- 💬 Ask me about calisthenics, fitness and soccer ⚽
 - 📫 How to reach me: fowad.sohail@gmail.com
 - ⚡ Fun fact: I can fluently read, write and speak **Urdu**!
 
