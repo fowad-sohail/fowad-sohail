@@ -6,8 +6,8 @@ I am **Fowad Sohail** a **Full Stack Developer** experienced in many languages a
 
 ---
 
-- 🔭 I’m currently working on deep learning research and data privacy protection products
-- 🌱 I’m currently learning **Golang** and **AWS services** such as **S3, Elastic Beanstalk and Cognito**
+- 🔭 I’m currently working on NFTs and blockhain
+- 🌱 I’m currently learning **Golang** and **React Native**
 - 🍳 I'm always cracking Dad Jokes!
 - 🗣 I have a long term goal of **giving a TED Talk**
 - 💬 Ask me about calisthenics, fitness and soccer ⚽
