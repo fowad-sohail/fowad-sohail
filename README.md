@@ -1,4 +1,4 @@
-![Banner](./Fowad Sohail.png)
+![Banner](./FowadSohail.png)
 
 ### Hey! <img src="https://raw.githubusercontent.com/fowad-sohail/fowad-sohail/master/wave.gif" width="30px">
 
