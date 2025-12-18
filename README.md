@@ -1,17 +1,20 @@
-![Banner Image](https://github.com/fowad-sohail/fowad-sohail/blob/master/banner.png)
 
 ### Hey! <img src="https://raw.githubusercontent.com/fowad-sohail/fowad-sohail/master/wave.gif" width="30px">
 
-I am **Fowad Sohail** a **Full Stack Developer** experienced in many languages and frameworks all for different purposes, from frontend to backend to data science and machine learning. I'm skilled in **ReactJS, NodeJS, Python, TensorFlow, RESTful APIs and UI/UX Design** among many others. I'm a confident and eager engineering professional always looking to keep my skills sharp. Check out some of what I'm up to below:
+I’m a Backend & DevOps Engineer passionate about building efficient, scalable, and secure systems. With experience spanning from startups to enterprise, I specialize in cloud-native solutions, infrastructure automation, and writing clean, maintainable code.
 
----
+### 💻 Backend & DevOps Expertise
+- **Cloud & Infrastructure**: AWS, Azure DevOps, Docker
+- **CI/CD & Automation**: Pipeline optimization, container image management, vulnerability scanning
+- **Languages & Frameworks**: Golang, Python, TypeScript, React, Flask
+- **Databases**: SQL, NoSQL
+- **Other Skills**: Distributed systems, event-driven architectures, observability, REST APIs
 
-- 🔭 I’m currently working with fullstack JS apps, including **React** and **Node**
-- 🌱 I’m currently learning **Golang** and **React Native**
-- 🍳 I'm always cracking Dad Jokes!
-- 🗣 I have a long term goal of **giving a TED Talk**
-- 💬 Ask me about calisthenics, fitness and soccer ⚽
-- 📫 How to reach me: fowad.sohail@gmail.com
-- ⚡ Fun fact: I know my ABCs backwards and can fluently read, write and speak **Urdu**!
+### 🎯 Career Highlights
+- Currently at **HP Inc.**, as a DevOps Engineer for the AI Studio platform, speeding up deployments, and enhancing incident response.
+- Designed robust backend services in Golang with secure API integrations and testable architectures.
+- Hands-on experience with modern DevOps practices, like automated security scans and seamless CI/CD workflows.
+- Designed, built, and launched a production-grade SaaS from concept to revenue, with active paying customers
 
-[![Fowad's github stats](https://github-readme-stats.vercel.app/api?username=fowad-sohail&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,stars)](https://github.com/fowad-sohail/github-readme-stats)
+Outside of work, I enjoy reading, staying active and spending time with friends and family.
+
